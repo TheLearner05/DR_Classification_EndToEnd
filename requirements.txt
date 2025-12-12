@@ -1,4 +1,6 @@
-pytorch
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch
+torchvision
 pandas
 numpy
 seaborn
@@ -7,7 +9,7 @@ opencv-python
 pillow
 dvc
 notebook
-python-box == 6.02
+python-box == 6.0.2
 pyYAML
 tqdm
 ensure == 1.0.2
@@ -19,4 +21,5 @@ fastapi
 uvicorn
 Flask
 Flask-Cors
+-e .
 
