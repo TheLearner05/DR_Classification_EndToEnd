@@ -1,0 +1,22 @@
+pytorch
+pandas
+numpy
+seaborn
+matplotlib
+opencv-python
+pillow
+dvc
+notebook
+python-box == 6.02
+pyYAML
+tqdm
+ensure == 1.0.2
+joblib
+rich
+types-pyYAML
+scipy
+fastapi
+uvicorn
+Flask
+Flask-Cors
+
